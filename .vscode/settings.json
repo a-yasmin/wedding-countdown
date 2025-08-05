@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.svg": "xml"
+  },
+  "emmet.includeLanguages": {
+    "xml": "html"
+  },
+  "files.defaultLanguage": "xml",
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+  },
+  "files.exclude": {
+    "**/*.svg": false
+  }
+} 
